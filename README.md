@@ -3,7 +3,7 @@ Homework assignment for WordPress Pen testing assignment
 <hr>
 hello testing
 <hr>
-everything n/
+everything <br>
 12233
 <img src="https://i.ibb.co/BsDRyWD/Exploit-1.png" alt="Exploit-1" border="0">
 <img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0">
