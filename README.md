@@ -10,9 +10,8 @@ everything <br>
 <img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0">
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0">
 <img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0">
-<img src="https://i.ibb.co/BsDRyWD/Exploit-1.png" alt="Exploit-1" border="0">
-# Wk7-WP-Pentesting
-TITLE OF PAGE - My example: CodePath Assignment for Week 7/8 - WordPress Pentesting
+
+
 
 <hr>
 
@@ -36,5 +35,5 @@ DESCRIBE VULNERABILITY HERE
 5.  Within 'Attachment Details' click "View attachment page" near the bottom right to view the page containing the uploaded image:<br>
    
 6.  Here you will see the executed JavaScript code within the filename which will contine to be run whenever the image is loaded, demonstrating the possibility for persistent Cross-Site Scripting:<br>
-
+<img src="https://i.ibb.co/BsDRyWD/Exploit-1.png" alt="Exploit-1" border="0">
 <hr>
