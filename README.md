@@ -1,20 +1,16 @@
 # Codepath-week-7-and-8
 Homework assignment for WordPress Pen testing assignment
 <hr>
-WordPress Exploits
+Errors Setting Uo WPDistillery
 <hr>
-everything <br>
-12233
 <img src="https://i.ibb.co/DCWbcWc/WPDistillery-wont-work.png" alt="WPDistillery-wont-work" border="0">
 <img src="https://i.ibb.co/FJjFDTk/Word-Press-V4-2.png" alt="Word-Press-V4-2" border="0">
 <img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0">
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0">
 <img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0">
-
-
-
 <hr>
-
+WordPress Exploits
+<hr>
 <b><h3>EXPLOIT # 1:</h3></b> NAME OF EXPLOIT
 https://nvd.nist.gov/vuln/detail/CVE-2016-7168
 
