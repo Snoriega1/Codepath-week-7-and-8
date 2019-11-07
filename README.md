@@ -20,9 +20,12 @@ Even though the vulnerability didn't show up in the wpscan, I ran the XXS vulner
 
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0"><br>
 
-I noticed that the 
+I noticed that the Title was different than that of my classmates so I changed it to the name of the file with the Java script in it and that sloved the problem.<br>
 
 <img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0"><br>
+
+The corrected exploit is displayed below.<br>
+
 <hr>
 <b><h3>WordPress Exploits</h3></b>
 <hr>
