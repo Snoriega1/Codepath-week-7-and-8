@@ -15,7 +15,7 @@ I configured the config file with version 4.2 and if kept spinning up 4.2.25.<br
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0"><br>
 <img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0"><br>
 <hr>
-WordPress Exploits
+<b><h3>WordPress Exploits</h3></b>
 <hr>
 <b><h3>EXPLOIT # 1:</h3></b> NAME OF EXPLOIT
 https://nvd.nist.gov/vuln/detail/CVE-2016-7168
