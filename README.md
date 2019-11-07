@@ -19,6 +19,9 @@ When I run the wpscan on the installed version 4.2.25 a much shorter list of vul
 Even though the vulnerability didn't show up in the wpscan, I ran the XXS vulnerability CVE-2016-7168 that shows up in the assignment instructions. It didn't work as intended.<br>
 
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0"><br>
+
+I noticed that the 
+
 <img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0"><br>
 <hr>
 <b><h3>WordPress Exploits</h3></b>
