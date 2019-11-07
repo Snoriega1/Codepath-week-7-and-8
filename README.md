@@ -35,7 +35,7 @@ https://nvd.nist.gov/vuln/detail/CVE-2016-7168
 <b>REFERENCE:</b> https://sumofpwn.nl/advisory/2016/persistent_cross_site_scripting_vulnerability_in_wordpress_due_to_unsafe_processing_of_file_names.html
 
 <b>THE VULNERABILITY:</b>
-Cross site scripting vulberability that uses JavaScript code in an image file that triggers an alert.
+Cross site scripting vulberability that uses JavaScript code in an image file name that triggers an alert.
 
 <b>STEPS TO RECREATE:</b>
 1.  Confirm that the WordPress target is vulnerable. To find the WordPress version, go to http://wpdistillery.vm/wp-admin/about.php. The WordPress version should be version 4.6 or older For this examples it is 4.2.25.<br>
