@@ -4,7 +4,7 @@ Homework assignment for WordPress Pen testing assignment
 Errors Setting Up WPDistillery
 <hr>
 
-After setting up everyting exactly as the instructions said I kept getting an error and the WPDistillery VM would not spin up.<br>
+After setting up everyting exactly as the instructions said I kept getting an error and the WPDistillery VM would not spin up. I logged into the Kali VM and went to wpdistillery.vm and I was able to gain access even though in the VirtualBox window it says WPDistillery was not running.<br>
 
 <img src="https://i.ibb.co/DCWbcWc/WPDistillery-wont-work.png" alt="WPDistillery-wont-work" border="0"><br>
 
