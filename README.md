@@ -7,6 +7,8 @@ Errors Setting Up WPDistillery
 After setting up everyting exactly as the instructions said I kept getting an error and the WPDistillery VM would not spin up.<br>
 
 <img src="https://i.ibb.co/DCWbcWc/WPDistillery-wont-work.png" alt="WPDistillery-wont-work" border="0"><br>
+
+I configured the config file with version 4.2 and if kept spinning up 4.2.25.<br>
 <img src="https://i.ibb.co/FJjFDTk/Word-Press-V4-2.png" alt="Word-Press-V4-2" border="0">
 <img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0">
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0">
