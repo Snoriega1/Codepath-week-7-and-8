@@ -11,6 +11,9 @@ After setting up everyting exactly as the instructions said I kept getting an er
 I configured the config file with version 4.2 and if kept spinning up 4.2.25.<br>
 
 <img src="https://i.ibb.co/FJjFDTk/Word-Press-V4-2.png" alt="Word-Press-V4-2" border="0"><br>
+
+When I run the wpscan on the installed version 4.2.25 a much shorter list of vulnerabilities is displayed than that of my classmates.<br> 
+
 <img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0"><br>
 <img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0"><br>
 <img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0"><br>
