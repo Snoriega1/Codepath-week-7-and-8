@@ -1,7 +1,7 @@
 # Codepath-week-7-and-8
 Homework assignment for WordPress Pen testing assignment
 <hr>
-Errors Setting Up WPDistillery
+</h3></b> Errors Setting Up WPDistillery
 <hr>
 
 After setting up everyting exactly as the instructions said I kept getting an error and the WPDistillery VM would not spin up. I logged into the Kali VM and went to wpdistillery.vm and I was able to gain access even though in the VirtualBox window it says WPDistillery was not running.<br>
@@ -9,10 +9,11 @@ After setting up everyting exactly as the instructions said I kept getting an er
 <img src="https://i.ibb.co/DCWbcWc/WPDistillery-wont-work.png" alt="WPDistillery-wont-work" border="0"><br>
 
 I configured the config file with version 4.2 and if kept spinning up 4.2.25.<br>
-<img src="https://i.ibb.co/FJjFDTk/Word-Press-V4-2.png" alt="Word-Press-V4-2" border="0">
-<img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0">
-<img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0">
-<img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0">
+
+<img src="https://i.ibb.co/FJjFDTk/Word-Press-V4-2.png" alt="Word-Press-V4-2" border="0"><br>
+<img src="https://i.ibb.co/B4TnbfB/Not-showing-all-vulnerabilities.png" alt="Not-showing-all-vulnerabilities" border="0"><br>
+<img src="https://i.ibb.co/2df3Ddq/Still-not-working-no-alert.png" alt="Still-not-working-no-alert" border="0"><br>
+<img src="https://i.ibb.co/CsD2DR4/Change-the-title.png" alt="Change-the-title" border="0"><br>
 <hr>
 WordPress Exploits
 <hr>
